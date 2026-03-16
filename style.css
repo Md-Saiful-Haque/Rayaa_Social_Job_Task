@@ -2381,7 +2381,7 @@ header {
 .quote-text::after { right: 0; bottom: -10px; }
 
 
-/* --- RESPONSIVE DESIGN --- */
+/* --- RESPONSIVE DESIGN of Client Stories Section --- */
 
 
 @media (max-width: 992px) {
